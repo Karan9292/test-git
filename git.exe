@@ -1,7 +1,7 @@
 [user]
-	name = Testing
-	email = Testing
-	username = Testing
+	name = prudle
+	email = prudle
+	username = prudle
 [core]
 	editor = mankaran
 	whitespace = fix,-indent-with-non-tab,trailing-space,cr-at-eol
